@@ -27,7 +27,7 @@
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 ```
-pip install django==3.0.5
+pip install django==2.2.4
 pip install django-widget-tweaks
 pip install xhtml2pdf
 ```
